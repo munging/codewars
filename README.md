@@ -1,4 +1,6 @@
-# Codewars Training
+# Achieve mastery through challenge !!!
+
+![Bruce Lee](images/bruce-leee.png)
 
 ### Go
 
