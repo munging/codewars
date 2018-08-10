@@ -22,3 +22,15 @@
 - [String repeat](https://www.codewars.com/kata/string-repeat)
 - [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - [Even or Odd](https://www.codewars.com/kata/even-or-odd)
+
+# Specials
+
+- [Two to One](https://www.codewars.com/kata/two-to-one)
+- [Find the longest gap!](https://www.codewars.com/kata/find-the-longest-gap)
+- [Complete The Pattern #2](https://www.codewars.com/kata/complete-the-pattern-number-2)
+- [Largest 5 digit number in a series](https://www.codewars.com/kata/largest-5-digit-number-in-a-series)
+- [Does an array contain all elements from another](https://www.codewars.com/kata/does-an-array-contain-all-elements-from-another-array)
+- [Repeated Substring](https://www.codewars.com/kata/repeated-substring)
+- [Life of Possibilities](https://www.codewars.com/kata/life-of-possibilities)
+- [Scramblies](https://www.codewars.com/kata/scramblies)
+- [Weight for weight](https://www.codewars.com/kata/weight-for-weight)
