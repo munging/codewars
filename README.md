@@ -22,6 +22,10 @@
 - [String repeat](https://www.codewars.com/kata/string-repeat)
 - [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - [Even or Odd](https://www.codewars.com/kata/even-or-odd)
+- [Remove First and Last Character](https://www.codewars.com/kata/remove-first-and-last-character)
+- [Sum of positive](https://www.codewars.com/kata/sum-of-positive)
+- [Multiple of index](https://www.codewars.com/kata/multiple-of-index)
+- [Beginner - Lost Without a Map](https://www.codewars.com/kata/beginner-lost-without-a-map)
 
 # Specials
 
