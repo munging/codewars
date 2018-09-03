@@ -4,9 +4,9 @@
 
 ## Go
 
-### Level 1
+### Level 1 White Belt
 
-#### 8 kyu White Belt
+#### 8 kyu 
 
 - [Function 1 - hello world](https://www.codewars.com/kata/function-1-hello-world)
 - [Multiply](https://www.codewars.com/kata/multiply)
@@ -15,9 +15,9 @@
 - [Return Negative](https://www.codewars.com/kata/return-negative)
 - [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/grasshopper-terminal-game-combat-function-1)
 
-### Level 2
+### Level 2 White Belt
 
-#### 8 kyu White Belt
+#### 8 kyu 
 
 - [String repeat](https://www.codewars.com/kata/string-repeat)
 - [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
@@ -26,6 +26,14 @@
 - [Sum of positive](https://www.codewars.com/kata/sum-of-positive)
 - [Multiple of index](https://www.codewars.com/kata/multiple-of-index)
 - [Beginner - Lost Without a Map](https://www.codewars.com/kata/beginner-lost-without-a-map)
+
+### Level 3 Yellow Belt
+
+#### 7 kyu
+
+- [Are the numbers in order?](https://www.codewars.com/kata/are-the-numbers-in-order)
+- [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle)
+- [Mumbling](https://www.codewars.com/kata/mumbling)
 
 # Specials
 
