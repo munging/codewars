@@ -35,6 +35,15 @@
 - [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle)
 - [Mumbling](https://www.codewars.com/kata/mumbling)
 
+### Level 4 Orange Belt
+
+#### 6 kyu
+
+- [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)
+- [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)
+- [Split Strings](https://www.codewars.com/kata/split-strings)
+- [IP Validation](https://www.codewars.com/kata/ip-validation)
+
 # Specials
 
 - [Two to One](https://www.codewars.com/kata/two-to-one)
